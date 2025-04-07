@@ -10,7 +10,7 @@ customer satisfaction, and operational efficiency.
 
 **Dataset:**
 
-[Replace with Actual Link - e.g., Kaggle, CSV file URL]
+[Hotel Booking (CSV file)](https://github.com/rohansadaphule/Hotel_Booking_Analysis/blob/main/Hotel%20Bookings.csv)
 
 **Key Objectives:**
 
@@ -51,7 +51,7 @@ correlation matrices.
 
 **Visualizations:**
 
-[Jupyter Notebook](https://github.com/rohansadaphule/Hotel_Booking_Analysis/)
+[Jupyter Notebook](https://github.com/rohansadaphule/Hotel_Booking_Analysis/blob/main/EDA_Hotel_Booking_Polished.ipynb)
 
 **Next Steps (Potential):**
 
